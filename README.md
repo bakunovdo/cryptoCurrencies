@@ -1,4 +1,4 @@
-Can you see project [here](https://bakunovdo.github.io/cryptoCurrencies/).
+You can see the project [here](https://bakunovdo.github.io/cryptoCurrencies/).
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
